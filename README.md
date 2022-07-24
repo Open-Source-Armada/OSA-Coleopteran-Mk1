@@ -1,5 +1,5 @@
 # OSA-Coleopteran-Mk1
-Salvage variation of the Ghast, used for dangerous salvage runs, usually around moon city and arma.
+Salvage variation of the Ghast, used for dangerous salvage runs, usually around Moon City and Arma.
 
 //Specs//
 
